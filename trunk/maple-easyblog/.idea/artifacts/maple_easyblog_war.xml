@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maple-easyblog:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="maple-web.war">
+      <element id="artifact" artifact-name="maple-easyblog:war exploded" />
+    </root>
+  </artifact>
+</component>
